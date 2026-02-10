@@ -39,5 +39,5 @@ The primary objectives of this dashboard are to:
 ---
 
 ## 📷 Dashboard Preview
-![Bikes_Sales_Dashboard_Screenshot](screenshot.png)
+![Bikes_Sales_Dashboard](screenshot.png)
 
